@@ -22,9 +22,7 @@
 
 - [HOW TO PLAY Workshop Maps & DOWNLOAD Bakkes Mod on Rocket League (EPIC GAMES)](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [How To Air Dribble From The Ground In Rocket League (MADE EASY FOR BEGINNERS)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [100 One Taps In One Video - Valorant]([https://www.youtube.com/watch?v=N-L9hklSlNk](https://youtu.be/SptKGyAvqaQ)
 
 <h2> 🤳 Connect with me:</h2>
 
