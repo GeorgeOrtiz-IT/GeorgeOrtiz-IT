@@ -14,7 +14,7 @@
 
 - [HOW TO PLAY Workshop Maps & DOWNLOAD Bakkes Mod on Rocket League (EPIC GAMES)](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [How To Air Dribble From The Ground In Rocket League (MADE EASY FOR BEGINNERS)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [100 One Taps In One Video - Valorant](https://www.youtube.com/watch?v=N-L9hklSlNk)
+
 
 <h2> 🤳 Connect with me:</h2>
 
