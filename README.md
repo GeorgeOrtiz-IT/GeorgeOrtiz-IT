@@ -1,4 +1,4 @@
-<h1>Hi, I'm George! <br/><a href="https://github.com/joshmadakor1">IT Enthusiast</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm George! <br/><a href="https://github.com/GeorgeOrtiz-IT">IT Enthusiast</a>, <a href="https://www.linkedin.com/in/george-ortiz-55aa991b5//">Cybersecurity Student</a>, <a href="https://www.youtube.com/@Jurjii_">YouTuber</a></h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
@@ -26,7 +26,7 @@
 [linkedin]: https://www.linkedin.com/in/george-ortiz-55aa991b5/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GeorgeOrtiz-IT/GeorgeOrtiz-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
