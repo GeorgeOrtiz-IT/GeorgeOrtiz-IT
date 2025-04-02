@@ -5,7 +5,7 @@
 - <b>(osTicket: Creating a Ticketing System for Help Desk)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/GeorgeOrtiz-IT/osTicket)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [osTicket: Post-Installation Configuration](https://github.com/GeorgeOrtiz-IT/post-install-config) <b><i>(Potentially NSFW)</b></i>
 
 
 <h2>📜 Certifications</h2>
