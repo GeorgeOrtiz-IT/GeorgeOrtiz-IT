@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>(osTicket: Creating a Ticketing System for Help Desk)</b>
-  - (https://github.com/GeorgeOrtiz-IT/osTicket)
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
