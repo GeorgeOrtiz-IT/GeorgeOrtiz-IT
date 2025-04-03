@@ -2,6 +2,7 @@
 
 <h2>🖥️ IT Projects:</h2>
 
+
 - <b>osTicket (Help Desk Ticketing System)</b>
 
   - [osTicket: Prerequisites and Installation](https://github.com/GeorgeOrtiz-IT/osTicket)
