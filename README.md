@@ -10,9 +10,10 @@
 
 <h2>📚 Certifications:</h2>
 
-<h2>🏫 Education:</h2> 
-- <b>Cybersecurity Associate of Applied Science Degree - Graduating Spring 2026<b>
-- [osTicket: Prerequisites and Installation](https://github.com/GeorgeOrtiz-IT/osTicket)
+<h2>🏫 Education:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+
 
 <h2>📺 Popular YouTube Videos:</h2>
 
