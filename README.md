@@ -9,7 +9,7 @@
 
 - <b>Microsoft Azure (Setting Up VM's)</b>
   - [Configuring Active Directory (On-Premises) Within Azure](https://github.com/GeorgeOrtiz-IT/azure)
-  - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines using Wireshark](https://github.com/GeorgeOrtiz-IT/azure-network)
+  - [Network Security Groups (NSGs) and Inspecting Traffic](https://github.com/GeorgeOrtiz-IT/azure-network)
  
 
 <h2>📚 Certifications:</h2>
