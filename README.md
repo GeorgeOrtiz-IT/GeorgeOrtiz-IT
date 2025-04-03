@@ -14,6 +14,8 @@
 
 <h2>📚 Certifications:</h2>
 
+- <b>CourseCareers Information Technology</b>
+
 <h2>🏫 Education:</h2>
 
 - <b>Cybersecurity Associate of Applied Science Degree | Expected Graduation Date: July 2026</b>
