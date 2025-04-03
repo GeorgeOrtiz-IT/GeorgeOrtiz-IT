@@ -7,6 +7,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/GeorgeOrtiz-IT/post-install-config)
   - [osTicket: Ticket Lifestyle Examples](https://github.com/GeorgeOrtiz-IT/ticket-lifestyle) 
 
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory (On-Premises) Within Azure](https://github.com/GeorgeOrtiz-IT/azure)
+  - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines using Wireshark](https://github.com/GeorgeOrtiz-IT/azure-network)
+ 
 
 <h2>📚 Certifications:</h2>
 
