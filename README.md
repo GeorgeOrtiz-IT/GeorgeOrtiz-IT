@@ -23,7 +23,7 @@
 
 
 [youtube]: https://www.youtube.com/@Jurjii_
-[linkedin]: https://www.linkedin.com/in/george-ortiz-55aa991b5/
+[linkedin]: https://www.linkedin.com/in/george-ortiz-it/
 
 <!--
 **GeorgeOrtiz-IT/GeorgeOrtiz-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
