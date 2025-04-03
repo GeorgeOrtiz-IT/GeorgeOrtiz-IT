@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifestyle Examples](https://github.com/GeorgeOrtiz-IT/ticket-lifestyle) 
 
 
-<h2>📜 Certifications</h2>
+<h2>📚 Certifications</h2>
 
 <h2>📺 Popular YouTube Videos</h2>
 
