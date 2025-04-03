@@ -10,7 +10,8 @@
 
 <h2>📚 Certifications:</h2>
 
-<h2>🏫 Education:</h2> Cybersecurity Associate of Applied Science Degree - Graduating Spring 2026
+<h2>🏫 Education:</h2> 
+- Cybersecurity Associate of Applied Science Degree - Graduating Spring 2026
 
 <h2>📺 Popular YouTube Videos:</h2>
 
