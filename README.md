@@ -12,7 +12,7 @@
 
 <h2>🏫 Education:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Cybersecurity Associate of Applied Science Degree</b>
 
 
 <h2>📺 Popular YouTube Videos:</h2>
