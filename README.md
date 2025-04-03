@@ -10,6 +10,8 @@
 
 <h2>📚 Certifications:</h2>
 
+<h2>🏫 Education:</h2>
+
 <h2>📺 Popular YouTube Videos:</h2>
 
 - [HOW TO PLAY Workshop Maps & DOWNLOAD Bakkes Mod on Rocket League (EPIC GAMES)](https://www.youtube.com/watch?v=a83ASGn_V_s)
