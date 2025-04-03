@@ -1,7 +1,6 @@
 <h1>Hi, I'm George <br/><a href="https://github.com/GeorgeOrtiz-IT">IT Enthusiast</a>, <a href="https://www.linkedin.com/in/george-ortiz-55aa991b5//">Cybersecurity Student</a>, <a href="https://www.youtube.com/@Jurjii_">YouTuber</a></h1>
 
 <h2>🖥️ IT Projects:</h2>
-
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/GeorgeOrtiz-IT/osTicket)
   - [osTicket: Post-Installation Configuration](https://github.com/GeorgeOrtiz-IT/post-install-config)
@@ -11,8 +10,7 @@
   - [Configuring Active Directory (On-Premises) Within Azure](https://github.com/GeorgeOrtiz-IT/azure)
   - [Network Security Groups (NSGs) and Inspecting Traffic](https://github.com/GeorgeOrtiz-IT/azure-network)
  
-
-<h2>📚 Certifications:</h2>
+ <h2>📚 Certifications:</h2>
 
 - <b>CourseCareers Information Technology</b>
 
