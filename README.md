@@ -8,9 +8,9 @@
   - [osTicket: Ticket Lifestyle Examples](https://github.com/GeorgeOrtiz-IT/ticket-lifestyle) 
 
 
-<h2>📚 Certifications</h2>
+<h2>📚 Certifications:</h2>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos:</h2>
 
 - [HOW TO PLAY Workshop Maps & DOWNLOAD Bakkes Mod on Rocket League (EPIC GAMES)](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [How To Air Dribble From The Ground In Rocket League (MADE EASY FOR BEGINNERS)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
