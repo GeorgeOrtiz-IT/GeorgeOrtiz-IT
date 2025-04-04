@@ -27,8 +27,8 @@
 
 <h2>📺 Popular YouTube Videos:</h2>
 
-- [HOW TO PLAY Workshop Maps & DOWNLOAD Bakkes Mod on Rocket League (EPIC GAMES)](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [How To Air Dribble From The Ground In Rocket League (MADE EASY FOR BEGINNERS)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [HOW TO PLAY Workshop Maps & DOWNLOAD Bakkes Mod on Rocket League (EPIC GAMES)](https://youtu.be/yimXV1bE0PE?si=x9Zrdt2Rf1UXjyFt)
+- [How To Air Dribble From The Ground In Rocket League (MADE EASY FOR BEGINNERS)](https://youtu.be/aoYfuWaqwB4?si=cLo9h7BIKhdXz42J)
 
 
 <h2>✨ Connect with me:</h2>
