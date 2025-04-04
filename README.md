@@ -14,7 +14,7 @@
   - [Network Security Groups (NSGs) and Inspecting Traffic](https://github.com/GeorgeOrtiz-IT/azure-network)
  
 - <b>Microsoft Azure (Creating VM's)</b>
-  - [Creating VM & Connceting With Remote Desktop](https://github.com/GeorgeOrtiz-IT/azure)
+  - [Creating VM and Connceting With Remote Desktop](https://github.com/GeorgeOrtiz-IT/azure)
   
  <h2>📚 Certifications:</h2>
 
