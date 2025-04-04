@@ -10,7 +10,7 @@
   - [osTicket: Ticket Lifestyle Examples](https://github.com/GeorgeOrtiz-IT/ticket-lifestyle) 
 
 - <b>Microsoft Azure (Active Directory & Network Security)</b>
-  - [Configuring Active Directory (On-Premises) Within Azure]()
+  - [Configuring Active Directory (On-Premises) Within Azure](https://github.com/GeorgeOrtiz-IT/azure)
   - [Network Security Groups (NSGs) and Inspecting Traffic](https://github.com/GeorgeOrtiz-IT/azure-network)
  
 - <b>Microsoft Azure (Creating VM's)</b>
