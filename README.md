@@ -9,11 +9,11 @@
   - [osTicket: Post-Installation Configuration](https://github.com/GeorgeOrtiz-IT/post-install-config)
   - [osTicket: Ticket Lifestyle Examples](https://github.com/GeorgeOrtiz-IT/ticket-lifestyle) 
 
-- <b>Microsoft Azure (Active Directory & Network Security)</b>
+- <b>Microsoft Azure (Active Directory and Network Security)</b>
   - [Configuring Active Directory (On-Premises) Within Azure](https://github.com/GeorgeOrtiz-IT/azure)
   - [Network Security Groups (NSGs) and Inspecting Traffic](https://github.com/GeorgeOrtiz-IT/azure-network)
  
-- <b>Microsoft Azure (Creating VM's)</b>
+- <b>Microsoft Azure (Creating VM's And How To Connect)</b>
   - [Creating VM and Connecting With Remote Desktop](https://github.com/GeorgeOrtiz-IT/azure-remote-connect)
   
  <h2>📚 Certifications:</h2>
