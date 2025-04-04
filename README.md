@@ -13,6 +13,9 @@
   - [Configuring Active Directory (On-Premises) Within Azure](https://github.com/GeorgeOrtiz-IT/azure)
   - [Network Security Groups (NSGs) and Inspecting Traffic](https://github.com/GeorgeOrtiz-IT/azure-network)
  
+- <b>Microsoft Azure</b>
+  - [Creating VM & Connceting With Remote Desktop](https://github.com/GeorgeOrtiz-IT/azure)
+  
  <h2>📚 Certifications:</h2>
 
 - <b>CourseCareers Information Technology</b>
