@@ -18,8 +18,9 @@
   
  <h2>📚 Certifications:</h2>
 
-- <b>CourseCareers Information Technology Professional</b>
 - <b>CompTIA A+</b>
+- <b>CourseCareers Information Technology Professional</b>
+
 
 <h2>🏫 Education:</h2>
 
