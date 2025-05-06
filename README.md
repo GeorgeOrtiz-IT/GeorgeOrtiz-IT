@@ -19,12 +19,12 @@
  <h2>📚 Certifications:</h2>
 
 - <b>CompTIA A+</b>
-- <b>CourseCareers Information Technology Professional</b>
 
 
 <h2>🏫 Education:</h2>
 
 - <b>Cybersecurity Associate of Applied Science Degree | Expected Graduation Date: July 2026</b>
+- <b>CourseCareers Information Technology Professional | Completed April 2025</b>
 
 
 
