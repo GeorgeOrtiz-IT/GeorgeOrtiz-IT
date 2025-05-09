@@ -19,7 +19,7 @@
  <h2>📚 Certifications:</h2>
 
 - <b>CompTIA A+</b>
-
+- <b>CompTIA Network+ (In Progress)</b>
 
 <h2>🏫 Education:</h2>
 
