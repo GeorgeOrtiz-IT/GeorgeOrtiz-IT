@@ -19,7 +19,8 @@
  <h2>📚 Certifications:</h2>
 
 - <b>CompTIA A+</b>
-- <b>CompTIA Network+ In Progress</b>
+- <b>CompTIA Network+</b>
+- <b>CompTIA Security+ In Progess</b>
 
 <h2>🏫 Education:</h2>
 
