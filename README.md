@@ -17,7 +17,8 @@
   - [Creating VMs and Connecting With Remote Desktop](https://github.com/GeorgeOrtiz-IT/azure-remote-connect)
   
  <h2>📚 Certifications:</h2>
-
+ 
+- <b>CompTIA CIOS</b>
 - <b>CompTIA A+</b>
 - <b>CompTIA Network+</b>
 - <b>CompTIA Security+ In Progess</b>
