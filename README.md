@@ -18,10 +18,10 @@
   
  <h2>📚 Certifications:</h2>
  
-- <b>Cisco Certified Network Associate Routing and Switching (CCNA)</b>
 - <b>CompTIA A+</b>
 - <b>CompTIA Network+</b>
 - <b>CompTIA Security+ In Progess</b>
+- <b>Cisco Certified Network Associate Routing and Switching (CCNA)</b>
 
 <h2>🏫 Education:</h2>
 
