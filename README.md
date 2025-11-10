@@ -18,7 +18,7 @@
   
  <h2>📚 Certifications:</h2>
  
-- <b>CompTIA CIOS</b>
+- <b>Cisco Certified Network Associate Routing and Switching (CCNA)</b>
 - <b>CompTIA A+</b>
 - <b>CompTIA Network+</b>
 - <b>CompTIA Security+ In Progess</b>
