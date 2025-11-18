@@ -20,12 +20,12 @@
  
 - <b>CompTIA A+</b>
 - <b>CompTIA Network+</b>
-- <b>CompTIA Security+ In Progess</b>
-- <b>Cisco Certified Network Associate Routing and Switching (CCNA)</b>
+- <b>CCNA In Progess</b>
 
 <h2>🏫 Education:</h2>
 
 - <b>Cybersecurity Associate of Applied Science Degree | Expected Graduation Date: July 2026</b>
+- <b>CCNA: Enterprise Networking, Security, and Automationl | Completed July 2025</b>
 - <b>CourseCareers Information Technology Professional | Completed April 2025</b>
 
 
