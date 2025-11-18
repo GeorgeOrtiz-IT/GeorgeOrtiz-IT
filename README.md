@@ -25,7 +25,7 @@
 <h2>🏫 Education:</h2>
 
 - <b>Cybersecurity Associate of Applied Science Degree | Expected Graduation Date: July 2026</b>
-- <b>CCNA: Enterprise Networking, Security, and Automationl | Completed July 2025</b>
+- <b>CCNA: Enterprise Networking, Security, and Automation | Completed July 2025</b>
 - <b>CourseCareers Information Technology Professional | Completed April 2025</b>
 
 
