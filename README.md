@@ -20,7 +20,7 @@
  
 - <b>CompTIA A+</b>
 - <b>CompTIA Network+</b>
-- <b>CCNA In Progess</b>
+- <b>CCNA In Progress</b>
 
 <h2>🏫 Education:</h2>
 
