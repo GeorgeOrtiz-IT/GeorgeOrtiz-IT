@@ -1,4 +1,4 @@
-<h1>Hi, I'm George <br/><a href="https://github.com/GeorgeOrtiz-IT">IT Enthusiast</a>,Cybersecurity Student</a>, <a href="https://www.youtube.com/@Jurjii_">YouTuber</a></h1>
+<h1>Hi, I'm George <br/><a>IT Enthusiast</a>,Cybersecurity Student</a>, <a href="https://www.youtube.com/@Jurjii_">YouTuber</a></h1>
 
 <h2>🖥️ IT Projects:</h2>
 
