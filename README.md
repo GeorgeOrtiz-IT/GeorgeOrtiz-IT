@@ -16,7 +16,6 @@
 - <b>Microsoft Azure (Creating VMs and How To Connect)</b>
   - [Creating VMs and Connecting With Remote Desktop](https://github.com/GeorgeOrtiz-IT/azure-remote-connect)
  
-  - [Creating VMs and Connecting With Remote Desktop](https://github.com/GeorgeOrtiz-IT/azure-remote-connect)
   
  <h2>📚 Certifications:</h2>
  
